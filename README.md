@@ -1,7 +1,7 @@
 kmeans
 ======
 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Java demo application, which illustrates steps of the k-means and k*-means clustering algorithms by clustering random data.
 
@@ -16,7 +16,7 @@ Getting started
 License
 -------
 
-Licensed under the BSD 3-Clause License. See LICENSE for details.
+Licensed under the MIT License. See LICENSE for details.
 
 ### And finally...
 
